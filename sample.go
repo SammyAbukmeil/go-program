@@ -7,5 +7,5 @@ const (
 )
 
 func main() {
-  Println(Hello, world)
+  Printf("%v %v\n", Hello, world)
 }

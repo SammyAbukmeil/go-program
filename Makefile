@@ -1,3 +1,6 @@
+.PHONY: go
+go: build run
+
 .PHONY: build
 build:
 	docker build -t "sample" .
