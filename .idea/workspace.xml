@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b626bf5a-121f-4abc-b3df-f0af532aca74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.go" beforeDir="false" afterPath="$PROJECT_DIR$/sample.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580130732083</updated>
-      <workItem from="1580130733194" duration="2251000" />
+      <workItem from="1580130733194" duration="2514000" />
     </task>
     <servers />
   </component>
@@ -67,5 +67,9 @@
       <screen x="0" y="23" width="1920" height="989" />
     </state>
     <state x="685" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.989/-1920.23.1920.1177@0.23.1920.989" timestamp="1580131247735" />
+    <state x="469" y="156" key="SettingsEditor" timestamp="1580133839429">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="469" y="156" key="SettingsEditor/0.23.1920.989/-1920.23.1920.1177@0.23.1920.989" timestamp="1580133839429" />
   </component>
 </project>
