@@ -4,4 +4,4 @@ build:
 
 .PHONY: run
 run:
-	docker run --name=gosample -e ENV=TestEnv --rm sample
+	docker run --name=gosample --rm sample
