@@ -3,8 +3,8 @@ go: build run
 
 .PHONY: build
 build:
-	docker build -t "sample" .
+	docker build -t "sammyabukmeil/go" .
 
 .PHONY: run
 run:
-	docker run --name=gosample --rm sample
+	docker-compose up

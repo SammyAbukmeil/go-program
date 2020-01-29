@@ -1,6 +1,8 @@
 version: '2'
 services:
-  sample-go:
-    build: .
-    environment:
-      - TEST_ENV=sammyIsCool
+  backend:
+    image: sammyabukmeil/go
+    volumes:
+      - ./sample.go:/home/sample.go
+    working_dir: /home
+    command: ["go","run","sample.go"]
