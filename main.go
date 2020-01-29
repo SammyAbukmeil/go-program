@@ -1,6 +1,6 @@
 package main
 
-import . "fmt"
+import "fmt"
 
 const (
 	Hello = "hello"
@@ -8,5 +8,5 @@ const (
 )
 
 func main() {
-	Printf("%v %v\n", Hello, world)
+	fmt.Printf("%v %v\n", Hello, world)
 }

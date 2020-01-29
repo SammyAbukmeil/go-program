@@ -3,6 +3,6 @@ services:
   backend:
     image: sammyabukmeil/go
     volumes:
-      - ./sample.go:/home/sample.go
+      - ./main.go:/home/main.go
     working_dir: /home
-    command: ["go","run","sample.go"]
+    command: ["go","run","main.go"]
